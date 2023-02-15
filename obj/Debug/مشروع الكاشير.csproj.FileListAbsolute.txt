@@ -1,0 +1,9 @@
+D:\testing\C#\مشروع الكاشير\bin\Debug\مشروع الكاشير.exe.config
+D:\testing\C#\مشروع الكاشير\bin\Debug\مشروع الكاشير.exe
+D:\testing\C#\مشروع الكاشير\bin\Debug\مشروع الكاشير.pdb
+D:\testing\C#\مشروع الكاشير\obj\Debug\مشروع الكاشير.csprojAssemblyReference.cache
+D:\testing\C#\مشروع الكاشير\obj\Debug\مشروع_الكاشير.Properties.Resources.resources
+D:\testing\C#\مشروع الكاشير\obj\Debug\مشروع_الكاشير.الكاشير.resources
+D:\testing\C#\مشروع الكاشير\obj\Debug\مشروع الكاشير.csproj.GenerateResource.cache
+D:\testing\C#\مشروع الكاشير\obj\Debug\مشروع الكاشير.exe
+D:\testing\C#\مشروع الكاشير\obj\Debug\مشروع الكاشير.pdb
